@@ -1,2 +1,2 @@
 # JavaScript-Dropper
-Java script dropper 
+Java script dropper which uses hexadecimal representation
